@@ -78,9 +78,9 @@ body {
   grid-column: span 2;
   /* regra que permite que ele ocupe 2 espaços de fração na linha,
   fazendo que ele fique maior do que os outros */
-  background-color: #75a5cb;
+  background-color: #EE82EE;
 }
 
 #buttons-container #equal-btn:hover {
-  background-color: #3a91d8;
+  background-color: #DA70D6;
 }
