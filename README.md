@@ -8,4 +8,4 @@ Este foi um dos projetos de prática do curso JavaScript do Básico ao Avançado
 ◼ JavaScript (POO, classes, métodos, propriedades e DOM)
 
 🌐 Veja o projeto rodando no navegador através do Vercel:
-
+https://js-projeto-calculadora.vercel.app/
